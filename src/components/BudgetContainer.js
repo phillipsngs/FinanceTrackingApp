@@ -1,5 +1,5 @@
 import React from 'react'
-import { Card, ProgressBar, Stack, Button } from 'react-bootstrap'
+import { Card, ProgressBar, Stack } from 'react-bootstrap'
 import { currencyFormatter } from '../utils'
 import { AnimatedButton } from '../App'
 import styled from "styled-components";

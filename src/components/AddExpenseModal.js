@@ -1,5 +1,5 @@
 import React from 'react'
-import { Form, Modal, Button, ModalHeader } from 'react-bootstrap'
+import { Form, Modal, ModalHeader } from 'react-bootstrap'
 import { useRef } from 'react'
 import { useBudgets, GENERAL_BUDGET_ID } from '../contexts/BudgetsContext'
 import { AnimatedButton } from '../App'
