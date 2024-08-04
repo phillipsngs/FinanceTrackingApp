@@ -1,5 +1,5 @@
 ## About the Project
-The Finance Tracker is a React app designed to help users monitor their expenses. Users can set budget limits for 
+The Expense Tracker is a React app designed to help users monitor their expenses. Users can set budget limits for 
 different categories and easily see if they are overspending as their expenses increase.
 
 ## Prerequisites
